@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rvsingh4
-- 👀 I’m interested in Backend Devlopment and Ad Tecj
+- 👀 I’m interested in Backend Devlopment and Ad Tech
 - 🌱 I’m currently learning Apache Kafka and other Big Data tools
 - 💞️ I’m looking to collaborate on adserver project
 
